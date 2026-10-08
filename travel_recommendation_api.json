@@ -1,0 +1,60 @@
+{
+  "countries": [
+    {
+      "name": "Australia",
+      "imageUrl": "assets/australia.svg",
+      "description": "Discover coastal cities, wide landscapes and outdoor adventures.",
+      "timeZone": "Australia/Sydney",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "assets/australia.svg",
+          "description": "Discover neighbourhoods, gardens and waterfront views.",
+          "timeZone": "Australia/Sydney"
+        }
+      ]
+    },
+    {
+      "name": "Japan",
+      "imageUrl": "assets/japan.svg",
+      "description": "Explore lively cities, mountain scenery and cultural traditions.",
+      "timeZone": "Asia/Tokyo",
+      "cities": [
+        {
+          "name": "Tokyo, Japan",
+          "imageUrl": "assets/japan.svg",
+          "description": "Discover neighbourhoods, gardens and waterfront views.",
+          "timeZone": "Asia/Tokyo"
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "assets/angkor.svg",
+      "description": "Explore monumental temple architecture and peaceful surrounding landscapes.",
+      "timeZone": "Asia/Phnom_Penh"
+    },
+    {
+      "name": "Tanah Lot Temple, Indonesia",
+      "imageUrl": "assets/bali.svg",
+      "description": "Discover intricate temple courtyards and the island’s cultural heritage.",
+      "timeZone": "Asia/Makassar"
+    }
+  ],
+  "beaches": [
+    {
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "assets/borabora.svg",
+      "description": "Imagine a quiet escape with turquoise water and a tropical island backdrop.",
+      "timeZone": "Pacific/Tahiti"
+    },
+    {
+      "name": "Copacabana, Brazil",
+      "imageUrl": "assets/copacabana.svg",
+      "description": "Enjoy an energetic shoreline framed by the city and green hills.",
+      "timeZone": "America/Sao_Paulo"
+    }
+  ]
+}
